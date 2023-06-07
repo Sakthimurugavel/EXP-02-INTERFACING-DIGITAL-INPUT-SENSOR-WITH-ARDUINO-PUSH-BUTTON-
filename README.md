@@ -99,6 +99,6 @@ Output of the simulation :
 ![Screenshot (72)](https://user-images.githubusercontent.com/118707246/233995498-b27a97cd-feb1-414f-b57f-51f094a6e2d4.png)![Screenshot (73)](https://user-images.githubusercontent.com/118707246/233995538-294f6650-08eb-4fda-9f1c-7fe4d7e8d295.png)
 
 
-Result:
+### Result:
 Thus the given experiment had done through the tinkerCAD
 
